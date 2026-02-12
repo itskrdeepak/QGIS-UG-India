@@ -12,10 +12,6 @@ sidebar: true
 
 Discover companies, contributors, and products from India supporting QGIS.
 
-{{< rich-content-end >}}
-{{< rich-box-end >}}
-{{< column-end >}}
-
 {{< column-start class="is-flex-direction-column is-half">}}
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
@@ -34,7 +30,7 @@ Discover companies, contributors, and products from India supporting QGIS.
 
 
 
-{{< column-start class="is-flex-direction-column is-half">}}
+<!-- {{< column-start class="is-flex-direction-column is-half">}}
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
@@ -47,6 +43,6 @@ Discover companies, contributors, and products from India supporting QGIS.
 {{< rich-content-end >}}
 {{< rich-box-end >}}
 {{< column-end >}}
-{{< columns-end >}}
+{{< columns-end >}} -->
 
 {{< content-end >}}
