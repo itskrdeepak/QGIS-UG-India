@@ -44,7 +44,6 @@ Practical QGIS tutorials, including local data, projections, and workflows.
 {{< columns-end >}}
 
 {{< rich-box-start icon="📥" layoutClass="tips">}}
-{{< rich-content-start themeClass="coloring-1" >}}
 
 ##### Contribute a Tutorial
 
