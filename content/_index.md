@@ -14,26 +14,24 @@ ButtonLink: "#get-involved"
 
 {{< content-start >}}
 
-## Welcome to the QGIS User Group
+## Welcome to the QGIS India User Group
 
 We are a community of QGIS users passionate about open-source geospatial technology. Our mission is to promote the use of QGIS, share knowledge, and support each other in our geospatial projects.
 
 {{< columns-start >}}
 {{< column-start class="is-flex-direction-column is-one-third left-title">}}
 
-## What We Do
+## Our Mission
 {{< column-end >}}
-
 
 {{< column-start class="is-flex-direction-column is-two-thirds">}}
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}} 
 
-- Organize regular meetups and events
-- Share best practices and use cases
-- Provide support for QGIS users at all levels
-- Contribute to the QGIS project
-- Network with geospatial professionals
+- Create a shared space for QGIS users across India
+- Encourage knowledge sharing, mentorship, and collaboration
+- Organize local meetups, workshops, and learning initiatives
+- Strengthen India’s contribution to the global QGIS project
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -58,7 +56,7 @@ Whether you're a beginner or an experienced QGIS user, everyone is welcome. Join
 &nbsp;&nbsp;<i class="fas fa-envelope"></i> qgis-india@googlegroups.com  
 &nbsp;&nbsp;<i class="fab fa-linkedin"></i> [LinkedIn Page](https://www.linkedin.com/groups/17314018/)  
 
-[See our upcoming events](/events/)
+[See our upcoming events]({{< relref "events" >}})
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
