@@ -67,14 +67,14 @@ QGIS and QSWAT+ handled the complete workflow from raw elevation data to attribu
 
 ## Resources
 
-  QSWAT+ documentation: (https://swatplus.gitbook.io/docs/user/qswat+)
-  SRTM data: (https://earthexplorer.usgs.gov) 
-  India-WRIS: (https://indiawris.gov.in/wris/#/geoSpatialData) 
+  [QSWAT+ documentation] (https://swatplus.gitbook.io/docs/user/qswat+)
+  [SRTM data] (https://earthexplorer.usgs.gov) 
+  [India-WRIS] (https://indiawris.gov.in/wris/#/geoSpatialData) 
   CartoDEM: Available from ISRO/NRSC
 
 ## Author
 
-Chinmay Shaligram is the Co-Founder of Terra Helix (https://terrahelix.io/), a geospatial consultancy based in Pune, India.
+Chinmay Shaligram is the Co-Founder of [Terra Helix] (https://terrahelix.io/), a geospatial consultancy based in Pune, India.
 
 ---
 
